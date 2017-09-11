@@ -1,8 +1,6 @@
 # Yaser Qazi (yq4du)
 
-
-def greeting(msg):
-    print(msg)
+import helper
 
 
-greeting("hello")
+helper.greeting("hello")
