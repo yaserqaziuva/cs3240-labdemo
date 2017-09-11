@@ -1,3 +1,8 @@
 # Yaser Qazi (yq4du)
 
-print('hello')
+
+def greeting(msg):
+    print(msg)
+
+
+greeting("hello")
